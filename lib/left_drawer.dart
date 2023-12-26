@@ -14,11 +14,11 @@ class left_drawer extends StatelessWidget {
           UserAccountsDrawerHeader(
             accountName: Text(
               "bounmee",
-              style: TextStyle(color: Colors.red),
+              style: TextStyle(color: Colors.green),
             ),
             accountEmail: Text(
               "bounmee@gmail.com",
-              style: TextStyle(color: Colors.red),
+              style: TextStyle(color:Colors.green),
             ),
             currentAccountPicture: Icon(
               Icons.face,
@@ -33,7 +33,7 @@ class left_drawer extends StatelessWidget {
             ),
           ),
           ListTile(
-            leading: Icon(Icons.home),
+            leading: Icon(Icons.cake),
             title: Text("Home"),
           ),
           ListTile(
