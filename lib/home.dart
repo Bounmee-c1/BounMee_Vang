@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:scrolling_app/left_drawer.dart';
 import 'package:scrolling_app/right_drawer.dart';
-import 'package:scrolling_app/birthday.dart';
-import 'package:scrolling_app/gratitude.dart';
-import 'package:scrolling_app/reminder.dart';
+
 
 class home extends StatefulWidget {
   const home({super.key});

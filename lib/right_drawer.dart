@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:scrolling_app/menu_list_tile.dart';
 
 class right_drawer extends StatelessWidget {
   const right_drawer({super.key});

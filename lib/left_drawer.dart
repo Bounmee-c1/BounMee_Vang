@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:scrolling_app/birthday.dart';
-import 'package:scrolling_app/birthday.dart';
-import 'package:scrolling_app/menu_list_tile.dart';
+
 
 class left_drawer extends StatelessWidget {
   const left_drawer({Key? key});
