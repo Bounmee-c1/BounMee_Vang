@@ -11,7 +11,7 @@ class Gratitude extends StatelessWidget {
         child: Icon(
           Icons.sentiment_satisfied,
           size: 120.0,
-          color: Colors.lightGreen,
+          color: Colors. black,
         ),
       ),
     );

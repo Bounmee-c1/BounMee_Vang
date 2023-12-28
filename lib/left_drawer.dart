@@ -13,12 +13,12 @@ class left_drawer extends StatelessWidget {
         children: const [
           UserAccountsDrawerHeader(
             accountName: Text(
-              "bounmee",
+              "Bounmee",
               style: TextStyle(color: Colors.green),
             ),
             accountEmail: Text(
-              "bounmee@gmail.com",
-              style: TextStyle(color:Colors.green),
+              "bounmeevang589@gmail.com",
+              style: TextStyle(color: Colors.green),
             ),
             currentAccountPicture: Icon(
               Icons.face,
@@ -34,7 +34,7 @@ class left_drawer extends StatelessWidget {
           ),
           ListTile(
             leading: Icon(Icons.cake),
-            title: Text("Home"),
+            title: Text("Birthday"),
           ),
           ListTile(
             leading: Icon(Icons.emoji_emotions),

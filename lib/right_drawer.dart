@@ -10,8 +10,8 @@ class right_drawer extends StatelessWidget {
       child: ListView(
         children: const [
           UserAccountsDrawerHeader(
-            accountName: Text("bounmee"),
-            accountEmail: Text("bounmee@gmail,com"),
+            accountName: Text("BounMee"),
+            accountEmail: Text("bounmeevang589@gmail,com"),
             currentAccountPicture: Icon(
               Icons.face,
               size: 48.0,
@@ -26,7 +26,7 @@ class right_drawer extends StatelessWidget {
           ),
           ListTile(
             leading: Icon(Icons.cake),
-            title: Text("Home"),
+            title: Text("Birthday"),
           ),
           ListTile(
             leading: Icon(Icons.emoji_emotions),
